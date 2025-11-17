@@ -1,4 +1,4 @@
-# trypwnme-hack-pwntools-skelleton
+# pwntools-skelleton
 
 from pwn import *
 
